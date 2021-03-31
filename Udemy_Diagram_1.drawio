@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T13:25:04.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QRQvnyGuR9atOp2Yc4Ni" version="14.5.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-03-31T13:25:47.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="inknJeyy9eAoOZmNauJJ" version="14.5.3" type="github" pages="7">
   <diagram id="8dgg9QJMpTgX3ZqzePfM" name="Page-1">
     <mxGraphModel dx="2693" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1278,6 +1278,9 @@
         <mxCell id="GMu1VKGK3bMmYu12Aq3w-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=70;fontSize=16;" edge="1" parent="GMu1VKGK3bMmYu12Aq3w-3" source="GMu1VKGK3bMmYu12Aq3w-11" target="GMu1VKGK3bMmYu12Aq3w-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GMu1VKGK3bMmYu12Aq3w-32" value="Note Symbol" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=0;labelBackgroundColor=none;startSize=70;fontSize=12;" vertex="1" parent="GMu1VKGK3bMmYu12Aq3w-3">
+          <mxGeometry x="730" y="19.5" width="90" height="34.5" as="geometry" />
+        </mxCell>
         <mxCell id="GMu1VKGK3bMmYu12Aq3w-14" value="Admin" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="GMu1VKGK3bMmYu12Aq3w-2">
           <mxGeometry y="230" width="882" height="120" as="geometry" />
         </mxCell>
@@ -1322,9 +1325,6 @@
         <mxCell id="GMu1VKGK3bMmYu12Aq3w-27" value="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;startSize=70;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GMu1VKGK3bMmYu12Aq3w-14">
           <mxGeometry x="810" y="35" width="45" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GMu1VKGK3bMmYu12Aq3w-31" value="=&amp;gt; Process ABC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="GMu1VKGK3bMmYu12Aq3w-14">
-          <mxGeometry x="782" y="10" width="100" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="GMu1VKGK3bMmYu12Aq3w-28" value="Cust Ser" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="GMu1VKGK3bMmYu12Aq3w-2">
           <mxGeometry y="350" width="882" height="120" as="geometry" />
         </mxCell>
@@ -1333,9 +1333,6 @@
         </mxCell>
         <mxCell id="GMu1VKGK3bMmYu12Aq3w-30" value="Start" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=2;fillColor=#dae8fc;fontSize=14;align=center;strokeColor=#6c8ebf;" vertex="1" parent="GMu1VKGK3bMmYu12Aq3w-1">
           <mxGeometry x="82.5" y="30" width="65" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GMu1VKGK3bMmYu12Aq3w-32" value="Note Symbol" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=0;labelBackgroundColor=none;startSize=70;fontSize=12;" vertex="1" parent="GMu1VKGK3bMmYu12Aq3w-1">
-          <mxGeometry x="320" y="630" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
