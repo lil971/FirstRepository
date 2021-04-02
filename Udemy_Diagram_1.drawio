@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T13:09:19.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jnyuQRsR7Sc5qH2jSQrh" version="14.5.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-04-02T13:11:31.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="iKmWmFqU4wb2Q8fGpG29" version="14.5.3" type="github" pages="13">
   <diagram id="8dgg9QJMpTgX3ZqzePfM" name="Page-1">
     <mxGraphModel dx="2693" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3694,10 +3694,10 @@
           <mxGeometry x="95" y="140" width="70" height="41" as="geometry" />
         </mxCell>
         <mxCell id="KcdV5MrZj5sFzbIUz8_t-0" value="Car wash process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;rounded=0;labelBackgroundColor=none;strokeColor=#3333FF;fillColor=#FFFFFF;fontSize=13;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
-          <mxGeometry x="30" y="205" width="1670" height="645" as="geometry" />
+          <mxGeometry x="30" y="205" width="1760" height="645" as="geometry" />
         </mxCell>
         <mxCell id="KcdV5MrZj5sFzbIUz8_t-1" value="Customer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-0">
-          <mxGeometry y="20" width="1670" height="120" as="geometry" />
+          <mxGeometry y="20" width="1760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KcdV5MrZj5sFzbIUz8_t-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=70;fontSize=13;" edge="1" parent="KcdV5MrZj5sFzbIUz8_t-1" source="KcdV5MrZj5sFzbIUz8_t-4" target="KcdV5MrZj5sFzbIUz8_t-5">
           <mxGeometry relative="1" as="geometry" />
@@ -3708,9 +3708,6 @@
         <mxCell id="KcdV5MrZj5sFzbIUz8_t-5" value="Pay for wash" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;startSize=70;fontSize=13;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-1">
           <mxGeometry x="180" y="10" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IrvdcTCJi5jc0_K7bIr0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=70;fontSize=11;" edge="1" parent="KcdV5MrZj5sFzbIUz8_t-1" source="hWjo5fQeYmqi3olkXix6-29" target="IrvdcTCJi5jc0_K7bIr0-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hWjo5fQeYmqi3olkXix6-29" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;labelBackgroundColor=none;startSize=70;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-1">
           <mxGeometry x="320" y="35" width="50" height="50" as="geometry" />
         </mxCell>
@@ -3719,11 +3716,11 @@
             <mxPoint x="330" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IrvdcTCJi5jc0_K7bIr0-31" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;labelBackgroundColor=none;startSize=70;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-1">
-          <mxGeometry x="390" y="37.5" width="45" height="45" as="geometry" />
+        <mxCell id="IrvdcTCJi5jc0_K7bIr0-36" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13.5pt ; line-height: 115% ; font-family: &amp;#34;segoe ui&amp;#34; , sans-serif ; color: #3c3b37&quot;&gt;exit the car&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;startSize=70;fontSize=11;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-1">
+          <mxGeometry x="1624" y="10" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KcdV5MrZj5sFzbIUz8_t-2" value="Wash Service" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-0">
-          <mxGeometry y="140" width="1670" height="365" as="geometry" />
+          <mxGeometry y="140" width="1760" height="365" as="geometry" />
         </mxCell>
         <mxCell id="ZweGBthzqzoUcAv2MXei-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Data System&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;startSize=70;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;labelBackgroundColor=none;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-2">
           <mxGeometry x="110" y="110" width="70" height="60" as="geometry" />
@@ -3904,12 +3901,6 @@
         <mxCell id="IrvdcTCJi5jc0_K7bIr0-24" value="&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 115% ; color: rgb(60 , 59 , 55)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;dryer is turned on for 60&lt;br/&gt;seconds and then turned off&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;startSize=70;strokeColor=#56517e;fillColor=#d0cee2;fontSize=13;fontStyle=2" vertex="1" parent="IrvdcTCJi5jc0_K7bIr0-22">
           <mxGeometry x="10" y="100" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IrvdcTCJi5jc0_K7bIr0-29" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;labelBackgroundColor=none;startSize=70;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-2">
-          <mxGeometry x="1600" y="172.5" width="45" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="IrvdcTCJi5jc0_K7bIr0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=70;fontSize=11;" edge="1" parent="KcdV5MrZj5sFzbIUz8_t-2" source="IrvdcTCJi5jc0_K7bIr0-32" target="IrvdcTCJi5jc0_K7bIr0-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IrvdcTCJi5jc0_K7bIr0-32" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;rounded=0;startSize=70;strokeColor=#3333FF;fillColor=#FFFFFF;fontSize=16;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-2">
           <mxGeometry x="1530" y="170" width="50" height="50" as="geometry" />
         </mxCell>
@@ -3917,7 +3908,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KcdV5MrZj5sFzbIUz8_t-3" value="Car Wash Attendant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-0">
-          <mxGeometry y="505" width="1670" height="140" as="geometry" />
+          <mxGeometry y="505" width="1760" height="140" as="geometry" />
         </mxCell>
         <mxCell id="hWjo5fQeYmqi3olkXix6-32" value="&lt;p&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 115% ; font-family: &amp;#34;segoe ui&amp;#34; , sans-serif ; color: rgb(60 , 59 , 55)&quot;&gt;Help the driver to&lt;br&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 115% ; font-family: &amp;#34;segoe ui&amp;#34; , sans-serif ; color: rgb(60 , 59 , 55)&quot;&gt;exit the car wash&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;startSize=70;fontSize=12;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-3">
           <mxGeometry x="120" y="20" width="100" height="100" as="geometry" />
@@ -3930,6 +3921,11 @@
         </mxCell>
         <mxCell id="PkmCdbelVrtdLywLxSfq-1" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;labelBackgroundColor=none;startSize=70;" vertex="1" parent="KcdV5MrZj5sFzbIUz8_t-3">
           <mxGeometry x="40" y="45" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IrvdcTCJi5jc0_K7bIr0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=70;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KcdV5MrZj5sFzbIUz8_t-0" source="IrvdcTCJi5jc0_K7bIr0-32" target="IrvdcTCJi5jc0_K7bIr0-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="335" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hWjo5fQeYmqi3olkXix6-2" value="Car wash process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;rounded=0;labelBackgroundColor=none;strokeColor=#3333FF;fillColor=#FFFFFF;fontSize=13;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
           <mxGeometry x="30" y="1130" width="760" height="590" as="geometry" />
