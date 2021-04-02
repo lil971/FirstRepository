@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T08:31:43.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="AF8BdBC-Y067Q6crcTCP" version="14.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-04-02T08:33:33.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="XDV50i7oe5rSxeCoJto-" version="14.5.3" type="github" pages="11">
   <diagram id="8dgg9QJMpTgX3ZqzePfM" name="Page-1">
     <mxGraphModel dx="2693" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3154,6 +3154,17 @@
         </mxCell>
         <mxCell id="ysR8cgqGA9U5mT8pJKvN-337" value="&lt;span style=&quot;color: rgb(60 , 59 , 55) ; font-family: &amp;#34;sf pro text&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;vertical line (called a parallel)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="ysR8cgqGA9U5mT8pJKvN-1">
           <mxGeometry x="583" y="3320" width="220" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WY1TGTOrVNvEF_Rw_ZdP" name="container symbol">
+    <mxGraphModel dx="789" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VDi_qQ6J-PQzytinA2AF-0" />
+        <mxCell id="VDi_qQ6J-PQzytinA2AF-1" parent="VDi_qQ6J-PQzytinA2AF-0" />
+        <mxCell id="VDi_qQ6J-PQzytinA2AF-2" value="Container" style="swimlane;rounded=0;labelBackgroundColor=none;startSize=70;strokeColor=#3333FF;fillColor=#FFFFFF;fontSize=16;html=0;" vertex="1" parent="VDi_qQ6J-PQzytinA2AF-1">
+          <mxGeometry x="160" y="110" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
