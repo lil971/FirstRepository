@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T14:08:48.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="N5AfZBbms27wGuDvlrpL" version="14.5.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-04-02T14:10:29.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_sjCTmXeXI-vy4qt7oHU" version="14.5.3" type="github" pages="13">
   <diagram id="8dgg9QJMpTgX3ZqzePfM" name="Page-1">
     <mxGraphModel dx="2693" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3671,7 +3671,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iSbKjQpd6r9fmXrf9g9b" name="Page-13">
-    <mxGraphModel dx="1415" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PiMsuJnvuE2G6xY-V2M8-0" />
         <mxCell id="PiMsuJnvuE2G6xY-V2M8-1" parent="PiMsuJnvuE2G6xY-V2M8-0" />
@@ -4053,7 +4053,7 @@
         <mxCell id="IrvdcTCJi5jc0_K7bIr0-71" style="edgeStyle=none;rounded=0;jumpSize=6;html=1;exitX=1;exitY=0.5;exitPerimeter=0;shadow=0;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" edge="1" parent="PiMsuJnvuE2G6xY-V2M8-1" source="IrvdcTCJi5jc0_K7bIr0-72" target="IrvdcTCJi5jc0_K7bIr0-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IrvdcTCJi5jc0_K7bIr0-72" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;align=center;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
+        <mxCell id="IrvdcTCJi5jc0_K7bIr0-72" value="&lt;span&gt;complete advanced soap cycle&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;align=center;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
           <mxGeometry x="433" y="1478.5" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IrvdcTCJi5jc0_K7bIr0-73" style="edgeStyle=none;rounded=0;jumpSize=6;html=1;exitX=1;exitY=0.5;exitPerimeter=0;shadow=0;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=2;fontSize=14;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="PiMsuJnvuE2G6xY-V2M8-1" source="IrvdcTCJi5jc0_K7bIr0-74" target="IrvdcTCJi5jc0_K7bIr0-93">
@@ -4065,13 +4065,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IrvdcTCJi5jc0_K7bIr0-74" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;align=center;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
+        <mxCell id="IrvdcTCJi5jc0_K7bIr0-74" value="&lt;span&gt;complete rinse cycle advances&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;align=center;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
           <mxGeometry x="566" y="1478.5" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IrvdcTCJi5jc0_K7bIr0-75" style="edgeStyle=none;rounded=0;jumpSize=6;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;shadow=0;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" edge="1" parent="PiMsuJnvuE2G6xY-V2M8-1" source="IrvdcTCJi5jc0_K7bIr0-76" target="IrvdcTCJi5jc0_K7bIr0-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IrvdcTCJi5jc0_K7bIr0-76" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;align=center;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
+        <mxCell id="IrvdcTCJi5jc0_K7bIr0-76" value="complete basic soap cycle" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;align=center;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
           <mxGeometry x="432.5" y="1358.5" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IrvdcTCJi5jc0_K7bIr0-77" style="edgeStyle=none;rounded=0;jumpSize=6;html=1;exitX=1;exitY=0.5;exitPerimeter=0;shadow=0;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=2;fontSize=14;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="PiMsuJnvuE2G6xY-V2M8-1" source="IrvdcTCJi5jc0_K7bIr0-78" target="IrvdcTCJi5jc0_K7bIr0-93">
@@ -4083,7 +4083,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IrvdcTCJi5jc0_K7bIr0-78" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;align=center;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
+        <mxCell id="IrvdcTCJi5jc0_K7bIr0-78" value="complete rinse cycle basic" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;align=center;" vertex="1" parent="PiMsuJnvuE2G6xY-V2M8-1">
           <mxGeometry x="566" y="1358.5" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IrvdcTCJi5jc0_K7bIr0-79" style="edgeStyle=none;rounded=0;jumpSize=6;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;shadow=0;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" edge="1" parent="PiMsuJnvuE2G6xY-V2M8-1" source="IrvdcTCJi5jc0_K7bIr0-80" target="IrvdcTCJi5jc0_K7bIr0-86">
