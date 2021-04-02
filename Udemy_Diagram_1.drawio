@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T08:48:26.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="X15tSyKDhHhc5ASriGGW" version="14.5.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-04-02T08:48:51.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ys0Cyz-A5BmZ44Z-LWru" version="14.5.3" type="github" pages="11">
   <diagram id="8dgg9QJMpTgX3ZqzePfM" name="Page-1">
     <mxGraphModel dx="2693" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3159,7 +3159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WY1TGTOrVNvEF_Rw_ZdP" name="container symbol">
-    <mxGraphModel dx="876" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="657" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VDi_qQ6J-PQzytinA2AF-0" />
         <mxCell id="VDi_qQ6J-PQzytinA2AF-1" parent="VDi_qQ6J-PQzytinA2AF-0" />
@@ -3572,12 +3572,25 @@
           <mxGeometry x="640" y="1980" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="V5PEt159dSGtEA40SbIu-117" value="Container" style="swimlane;rounded=0;labelBackgroundColor=none;startSize=70;strokeColor=#3333FF;fillColor=#FFFFFF;fontSize=16;html=0;" vertex="1" parent="VDi_qQ6J-PQzytinA2AF-1">
-          <mxGeometry x="380" y="2530" width="240" height="410" as="geometry" />
+          <mxGeometry x="380" y="2530" width="240" height="410" as="geometry">
+            <mxRectangle x="380" y="2530" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V5PEt159dSGtEA40SbIu-118" value="stored data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;startSize=70;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="V5PEt159dSGtEA40SbIu-117">
           <mxGeometry x="70" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V5PEt159dSGtEA40SbIu-120" value="stored data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;startSize=70;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="V5PEt159dSGtEA40SbIu-117">
+          <mxGeometry x="70" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5PEt159dSGtEA40SbIu-121" value="Container" style="swimlane;rounded=0;labelBackgroundColor=none;startSize=70;strokeColor=#3333FF;fillColor=#FFFFFF;fontSize=16;html=0;" vertex="1" collapsed="1" parent="VDi_qQ6J-PQzytinA2AF-1">
+          <mxGeometry x="672" y="2520" width="110" height="70" as="geometry">
+            <mxRectangle x="390" y="2970" width="240" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5PEt159dSGtEA40SbIu-122" value="stored data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;startSize=70;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="V5PEt159dSGtEA40SbIu-121">
+          <mxGeometry x="70" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5PEt159dSGtEA40SbIu-123" value="stored data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;startSize=70;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="V5PEt159dSGtEA40SbIu-121">
           <mxGeometry x="70" y="240" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
