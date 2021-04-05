@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T13:47:48.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="J62MAG-Ow9D_HcFJPt3B" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-05T13:52:32.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="e00HBm7xPLAZOxv4cdKc" version="14.5.3" type="github" pages="3">
   <diagram id="rCFoJDpoCN2Lao7vI6Yd" name="Page-1">
     <mxGraphModel dx="686" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,6 +124,24 @@
         </mxCell>
         <mxCell id="LrujdIiwlHCMqTR7iODV-7" value="&lt;span style=&quot;font-size: 16px&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFFF;fontSize=12;align=right;" vertex="1" parent="LrujdIiwlHCMqTR7iODV-1">
           <mxGeometry x="30" y="60" width="1120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LrujdIiwlHCMqTR7iODV-8" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LrujdIiwlHCMqTR7iODV-1">
+          <mxGeometry x="50" y="140" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LrujdIiwlHCMqTR7iODV-9" value="&lt;b class=&quot;whb&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-stretch: inherit ; line-height: inherit ; font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;nimbus sans l&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif ; font-size: 16px ; vertical-align: baseline ; background: none rgb(255 , 255 , 255) ; color: rgb(84 , 84 , 84) ; text-align: left&quot;&gt;Read the CBAP Handbook&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="LrujdIiwlHCMqTR7iODV-1">
+          <mxGeometry x="22.5" y="230" width="125" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LrujdIiwlHCMqTR7iODV-10" value="&lt;br&gt;&lt;b class=&quot;whb&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-stretch: inherit ; line-height: inherit ; font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;nimbus sans l&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif ; font-size: 16px ; vertical-align: baseline ; background: none rgb(255 , 255 , 255) ; color: rgb(84 , 84 , 84) ; text-align: left&quot;&gt;Begin documenting your work experience&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="LrujdIiwlHCMqTR7iODV-1">
+          <mxGeometry x="170" y="230" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LrujdIiwlHCMqTR7iODV-12" value="&lt;b class=&quot;whb&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-stretch: inherit ; line-height: inherit ; font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;nimbus sans l&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif ; font-size: 16px ; vertical-align: baseline ; background: none rgb(255 , 255 , 255) ; color: rgb(84 , 84 , 84) ; text-align: left&quot;&gt;Align&amp;nbsp;&lt;b class=&quot;whb&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-stretch: inherit ; line-height: inherit ; vertical-align: baseline ; background-image: none&quot;&gt;performed&amp;nbsp;&lt;/b&gt;&lt;br&gt;&amp;nbsp;tasks in&amp;nbsp; with&amp;nbsp; BABOOK&amp;nbsp;&lt;br&gt;&lt;b class=&quot;whb&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-stretch: inherit ; line-height: inherit ; vertical-align: baseline ; background-image: none&quot;&gt;defined&amp;nbsp;&lt;/b&gt;tasks&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="LrujdIiwlHCMqTR7iODV-1">
+          <mxGeometry x="330" y="230" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LrujdIiwlHCMqTR7iODV-13" value="&lt;b class=&quot;whb&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-stretch: inherit ; line-height: inherit ; font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;nimbus sans l&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif ; font-size: 16px ; vertical-align: baseline ; background: none rgb(255 , 255 , 255) ; color: rgb(84 , 84 , 84) ; text-align: left&quot;&gt;Determine the total number of working hours&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="LrujdIiwlHCMqTR7iODV-1">
+          <mxGeometry x="510" y="230" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LrujdIiwlHCMqTR7iODV-14" value="&lt;b class=&quot;whb&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-stretch: inherit ; line-height: inherit ; font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;nimbus sans l&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif ; font-size: 16px ; vertical-align: baseline ; background: none rgb(255 , 255 , 255) ; color: rgb(84 , 84 , 84) ; text-align: left&quot;&gt;Determine total number of&amp;nbsp;&lt;b class=&quot;whb&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-stretch: inherit ; line-height: inherit ; vertical-align: baseline ; background-image: none&quot;&gt;business analysis work&lt;/b&gt;&lt;br&gt;&amp;nbsp;hours&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="LrujdIiwlHCMqTR7iODV-1">
+          <mxGeometry x="680" y="230" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
