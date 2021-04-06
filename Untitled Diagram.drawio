@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T18:57:58.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="nXSZCPQrKnGzgiJAuldZ" version="14.5.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-06T18:58:29.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="u7Xf31-D18QBF5JmsWyQ" version="14.5.7" type="github" pages="6">
   <diagram id="rCFoJDpoCN2Lao7vI6Yd" name="Page-1">
     <mxGraphModel dx="515" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1140,7 +1140,7 @@
         <mxCell id="mIFyODYw7PA-acXWvzK8-0" />
         <mxCell id="mIFyODYw7PA-acXWvzK8-1" parent="mIFyODYw7PA-acXWvzK8-0" />
         <mxCell id="poNSZ7yAgE-h-ObaF7VW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="mIFyODYw7PA-acXWvzK8-1">
-          <mxGeometry x="20" y="250" width="1150" height="530" as="geometry" />
+          <mxGeometry x="10" y="250" width="1160" height="530" as="geometry" />
         </mxCell>
         <mxCell id="mIFyODYw7PA-acXWvzK8-2" value="Start process&lt;br&gt;Swipe the card&lt;br&gt;Authorized the card&lt;br&gt;Card authorized(&amp;gt;75$ available?)?&lt;br&gt;&amp;nbsp; &amp;nbsp; no - decline transaction and shoe error (to start again) got ot END&lt;br&gt;&amp;nbsp; &amp;nbsp; yes - continue (pump software data storage)&lt;br&gt;Select fuel grade&lt;br&gt;Fuel remaining?&lt;br&gt;&amp;nbsp; &amp;nbsp; no - inform customer to select a different grade&lt;br&gt;&amp;nbsp; &amp;nbsp; yes - cintinue&lt;br&gt;Pump the gas&lt;br&gt;The pump is hanged out?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;no - back to pump the gas&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;yes - continue&lt;br&gt;Finalize the transaction&lt;br&gt;Transaction details in store transaction data&lt;br&gt;Want the recipe?&lt;br&gt;&amp;nbsp; &amp;nbsp;Yes - print the recipe&lt;br&gt;&amp;nbsp; &amp;nbsp;No - continue&lt;br&gt;End process&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mIFyODYw7PA-acXWvzK8-1" vertex="1">
           <mxGeometry x="35" y="10" width="410" height="280" as="geometry" />
@@ -1171,7 +1171,7 @@
         <mxCell id="35Vv8G4eGWIVTkD_eA-r-8" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mIFyODYw7PA-acXWvzK8-1" source="35Vv8G4eGWIVTkD_eA-r-5" target="35Vv8G4eGWIVTkD_eA-r-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="35Vv8G4eGWIVTkD_eA-r-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;entryPerimeter=0;" edge="1" parent="mIFyODYw7PA-acXWvzK8-1" source="35Vv8G4eGWIVTkD_eA-r-5" target="35Vv8G4eGWIVTkD_eA-r-12">
+        <mxCell id="35Vv8G4eGWIVTkD_eA-r-14" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;entryPerimeter=0;" edge="1" parent="mIFyODYw7PA-acXWvzK8-1" source="35Vv8G4eGWIVTkD_eA-r-5" target="35Vv8G4eGWIVTkD_eA-r-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35Vv8G4eGWIVTkD_eA-r-5" value="&lt;span style=&quot;text-align: left&quot;&gt;&amp;gt;75$ &lt;br&gt;available?&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="mIFyODYw7PA-acXWvzK8-1">
