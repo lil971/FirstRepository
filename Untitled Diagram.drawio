@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T07:35:59.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="f2cQhArhocVDuO6gRHRg" version="14.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-06T07:39:27.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="o45lbRtzvEUi3MLRRkOv" version="14.5.3" type="github" pages="5">
   <diagram id="rCFoJDpoCN2Lao7vI6Yd" name="Page-1">
     <mxGraphModel dx="784" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -650,6 +650,35 @@
         </mxCell>
         <mxCell id="_uVL-4s05f1VlQgxhCft-86" value="Invalid Credentials Error" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;startSize=70;fillColor=#d5e8d4;fontSize=16;strokeColor=#82b366;align=center;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
           <mxGeometry x="77.5" y="1432.5" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="_uVL-4s05f1VlQgxhCft-93" value="INPUT OUTPUT SYMBOL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
+          <mxGeometry x="283" y="1620" width="167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNMDZsvqSkkihh9JvLYV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_uVL-4s05f1VlQgxhCft-1" source="LNMDZsvqSkkihh9JvLYV-0" target="LNMDZsvqSkkihh9JvLYV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNMDZsvqSkkihh9JvLYV-0" value="input" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;startSize=70;fillColor=#d5e8d4;fontSize=16;strokeColor=#82b366;align=center;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
+          <mxGeometry x="230" y="1670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNMDZsvqSkkihh9JvLYV-1" value="User selection&lt;br&gt;Data entered&lt;br&gt;Email received" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
+          <mxGeometry x="33" y="1680" width="167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNMDZsvqSkkihh9JvLYV-3" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
+          <mxGeometry x="370" y="1650" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LNMDZsvqSkkihh9JvLYV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_uVL-4s05f1VlQgxhCft-1" source="LNMDZsvqSkkihh9JvLYV-4" target="LNMDZsvqSkkihh9JvLYV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNMDZsvqSkkihh9JvLYV-4" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
+          <mxGeometry x="223" y="1790" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LNMDZsvqSkkihh9JvLYV-5" value="output" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;startSize=70;fillColor=#d5e8d4;fontSize=16;strokeColor=#82b366;align=center;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
+          <mxGeometry x="370" y="1810" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNMDZsvqSkkihh9JvLYV-7" value="Generate report&lt;br&gt;Send email&lt;br&gt;Show error" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
+          <mxGeometry x="470.5" y="1815" width="167" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
