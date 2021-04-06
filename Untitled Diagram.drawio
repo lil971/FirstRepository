@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T07:26:11.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="G3DKKf62_THgEano3mKP" version="14.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-06T07:28:01.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="4_TTuZHUNPsIMxxI84BD" version="14.5.3" type="github" pages="5">
   <diagram id="rCFoJDpoCN2Lao7vI6Yd" name="Page-1">
     <mxGraphModel dx="784" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -544,7 +544,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uVL-4s05f1VlQgxhCft-43" value="severity of claim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
+        <mxCell id="_uVL-4s05f1VlQgxhCft-43" value="claim severity" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
           <mxGeometry x="270" y="910" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_uVL-4s05f1VlQgxhCft-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_uVL-4s05f1VlQgxhCft-1" source="_uVL-4s05f1VlQgxhCft-45" target="_uVL-4s05f1VlQgxhCft-66">
@@ -595,7 +595,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_uVL-4s05f1VlQgxhCft-68" value="register claim" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
-          <mxGeometry x="850" y="790" width="100" height="85" as="geometry" />
+          <mxGeometry x="850" y="790" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_uVL-4s05f1VlQgxhCft-73" value="use snagit program" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
           <mxGeometry x="585" y="620" width="40" height="20" as="geometry" />
@@ -604,7 +604,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_uVL-4s05f1VlQgxhCft-75" value="submit form" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
-          <mxGeometry x="660" y="900" width="70" height="100" as="geometry" />
+          <mxGeometry x="650" y="900" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
