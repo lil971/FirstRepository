@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T06:33:49.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="BXVxkTYN9pPfzH_D_cSi" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-06T06:34:53.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Y96SJiUGGHFAPBxTlxQq" version="14.5.3" type="github" pages="4">
   <diagram id="rCFoJDpoCN2Lao7vI6Yd" name="Page-1">
     <mxGraphModel dx="784" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,7 +290,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="l-9Ze8ZP6TwNpL9sqK-4" name="7_Steps_To_Create_Process_flowchart">
-    <mxGraphModel dx="1606" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="PeyGIRqzN-57-wYUtugI-0" />
         <mxCell id="PeyGIRqzN-57-wYUtugI-1" parent="PeyGIRqzN-57-wYUtugI-0" />
@@ -360,8 +360,8 @@
         <mxCell id="FXSn8nYiGfreCxG6BkbD-17" value="as is to be&amp;nbsp;&lt;br&gt;sticky notes&lt;br&gt;take picture of end result" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="PeyGIRqzN-57-wYUtugI-1">
           <mxGeometry x="420" y="100" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FXSn8nYiGfreCxG6BkbD-19" value="as is to be&amp;nbsp;&lt;br&gt;sticky notes&lt;br&gt;take picture of end result" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="PeyGIRqzN-57-wYUtugI-1">
-          <mxGeometry x="655" y="110" width="180" height="60" as="geometry" />
+        <mxCell id="FXSn8nYiGfreCxG6BkbD-19" value="walk through each task&lt;br&gt;cross-check with users to validate ownwership&lt;br&gt;take norte of owners not include in meetings" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="PeyGIRqzN-57-wYUtugI-1">
+          <mxGeometry x="655" y="110" width="305" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
