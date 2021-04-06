@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T14:34:29.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="HviUsrMgQIrrEEr37PuP" version="14.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-06T14:59:40.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="G_KV8hYY0gmMhAn_5Zdy" version="14.5.3" type="github" pages="6">
   <diagram id="rCFoJDpoCN2Lao7vI6Yd" name="Page-1">
     <mxGraphModel dx="784" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1130,6 +1130,17 @@
         </mxCell>
         <mxCell id="LNMDZsvqSkkihh9JvLYV-161" value="log forms rejections" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;align=center;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="_uVL-4s05f1VlQgxhCft-1">
           <mxGeometry x="940" y="4210" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DBNJ2mwPfffVKa4aEdrw" name="pay at the pump process">
+    <mxGraphModel dx="521" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="mIFyODYw7PA-acXWvzK8-0" />
+        <mxCell id="mIFyODYw7PA-acXWvzK8-1" parent="mIFyODYw7PA-acXWvzK8-0" />
+        <mxCell id="mIFyODYw7PA-acXWvzK8-2" value="Start process&lt;br&gt;Swipe the card&lt;br&gt;Authorized the card&lt;br&gt;Card authorized(&amp;gt;75$ available?)?&lt;br&gt;&amp;nbsp; &amp;nbsp; no - decline transaction and shoe error (to start again) got ot END&lt;br&gt;&amp;nbsp; &amp;nbsp; yes - continue (pump software data storage)&lt;br&gt;Select fuel grade&lt;br&gt;Certain fuel for that grade available?&lt;br&gt;&amp;nbsp; &amp;nbsp; no - inform customer to select a different grade&lt;br&gt;&amp;nbsp; &amp;nbsp; yes - cintinue&lt;br&gt;Pump the gas&lt;br&gt;The pump is hanged out?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;no - back to pump the gas&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;yes - continue&lt;br&gt;Finilize the transaction&lt;br&gt;Transaction details in database saving&lt;br&gt;Want the recipe?&lt;br&gt;&amp;nbsp; &amp;nbsp;Yes - print the recipe&lt;br&gt;&amp;nbsp; &amp;nbsp;No - continue&lt;br&gt;End&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mIFyODYw7PA-acXWvzK8-1">
+          <mxGeometry x="70" y="60" width="410" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
