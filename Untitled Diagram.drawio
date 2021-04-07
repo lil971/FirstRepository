@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T12:30:40.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="tepoiqYghBnXHm7y41JQ" version="14.5.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-07T12:30:49.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="sproo-SPLZN3YYVftIZl" version="14.5.7" type="github" pages="9">
   <diagram id="rCFoJDpoCN2Lao7vI6Yd" name="Page-1">
     <mxGraphModel dx="515" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1494,7 +1494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nCH1E0mGp4m7xFSihOp1" name="insurance claim process swimlane">
-    <mxGraphModel dx="889" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="eKCAwdAVTNKs5XNuEtXH-0" />
         <mxCell id="eKCAwdAVTNKs5XNuEtXH-1" parent="eKCAwdAVTNKs5XNuEtXH-0" />
