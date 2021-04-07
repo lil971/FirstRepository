@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T12:29:24.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="MlLC4XC1PSDXO9AI4KxK" version="14.5.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-07T12:30:40.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="tepoiqYghBnXHm7y41JQ" version="14.5.7" type="github" pages="9">
   <diagram id="rCFoJDpoCN2Lao7vI6Yd" name="Page-1">
     <mxGraphModel dx="515" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1494,14 +1494,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nCH1E0mGp4m7xFSihOp1" name="insurance claim process swimlane">
-    <mxGraphModel dx="907" dy="-52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="eKCAwdAVTNKs5XNuEtXH-0" />
         <mxCell id="eKCAwdAVTNKs5XNuEtXH-1" parent="eKCAwdAVTNKs5XNuEtXH-0" />
         <mxCell id="M0qI7qhmrWYA1nhGatHo-75" value="Insurance claim process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;rounded=0;labelBackgroundColor=none;strokeColor=#3333FF;fillColor=#FFFFFF;fontSize=13;align=center;" vertex="1" parent="eKCAwdAVTNKs5XNuEtXH-1">
           <mxGeometry x="75" y="2090" width="1215" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="M0qI7qhmrWYA1nhGatHo-76" value="user" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="M0qI7qhmrWYA1nhGatHo-75">
+        <mxCell id="M0qI7qhmrWYA1nhGatHo-76" value="user" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="M0qI7qhmrWYA1nhGatHo-75">
           <mxGeometry y="20" width="1215" height="240" as="geometry" />
         </mxCell>
         <mxCell id="M0qI7qhmrWYA1nhGatHo-41" value="submit claim" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="M0qI7qhmrWYA1nhGatHo-76">
@@ -1625,6 +1625,88 @@
         </mxCell>
         <mxCell id="M0qI7qhmrWYA1nhGatHo-62" value="register claim" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="M0qI7qhmrWYA1nhGatHo-77">
           <mxGeometry x="775" y="208" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-27" value="valid insurance?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="M0qI7qhmrWYA1nhGatHo-77">
+          <mxGeometry x="49.989999999999995" y="58" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-28" value="Claim processor" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="M0qI7qhmrWYA1nhGatHo-77">
+          <mxGeometry width="1215" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-29" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZvgxuEnCEsWHvV5gqymJ-28" source="ZvgxuEnCEsWHvV5gqymJ-31" target="ZvgxuEnCEsWHvV5gqymJ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-30" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="ZvgxuEnCEsWHvV5gqymJ-28" source="ZvgxuEnCEsWHvV5gqymJ-31" target="ZvgxuEnCEsWHvV5gqymJ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-31" value="valid insurance?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="50" y="58" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="ZvgxuEnCEsWHvV5gqymJ-28" source="ZvgxuEnCEsWHvV5gqymJ-33" target="ZvgxuEnCEsWHvV5gqymJ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-33" value="&lt;span&gt;reject the claim&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="67.11999999999999" y="200" width="65.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-34" value="simple" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZvgxuEnCEsWHvV5gqymJ-28" source="ZvgxuEnCEsWHvV5gqymJ-38" target="ZvgxuEnCEsWHvV5gqymJ-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-35" value="simple" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ZvgxuEnCEsWHvV5gqymJ-34">
+          <mxGeometry x="0.4997" relative="1" as="geometry">
+            <mxPoint x="-177.48000000000002" y="-64.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-36" value="complex" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZvgxuEnCEsWHvV5gqymJ-28" source="ZvgxuEnCEsWHvV5gqymJ-38" target="ZvgxuEnCEsWHvV5gqymJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-37" value="complex" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ZvgxuEnCEsWHvV5gqymJ-36">
+          <mxGeometry x="0.3496" y="3" relative="1" as="geometry">
+            <mxPoint x="-160" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-38" value="claim severity" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="215" y="60" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-39" value="Send &lt;br&gt;simple form" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;startSize=70;fillColor=#d5e8d4;fontSize=16;strokeColor=#82b366;align=center;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="345" y="10" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-40" value="Send &lt;br&gt;complex form" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;startSize=70;fillColor=#d5e8d4;fontSize=16;strokeColor=#82b366;align=center;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="335" y="158" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-41" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZvgxuEnCEsWHvV5gqymJ-28" source="ZvgxuEnCEsWHvV5gqymJ-43" target="ZvgxuEnCEsWHvV5gqymJ-46">
+          <mxGeometry x="0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-42" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZvgxuEnCEsWHvV5gqymJ-28" source="ZvgxuEnCEsWHvV5gqymJ-43" target="ZvgxuEnCEsWHvV5gqymJ-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="895" y="160" as="sourcePoint" />
+            <mxPoint x="935" y="63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-43" value="&lt;span&gt;forms are completed?&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="775" y="78" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-44" value="log claims rejections" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="49.99999999999999" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="ZvgxuEnCEsWHvV5gqymJ-28" source="ZvgxuEnCEsWHvV5gqymJ-46" target="ZvgxuEnCEsWHvV5gqymJ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-46" value="reject the form" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="935" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-47" value="log forms rejections" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="1055" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-48" value="register claim" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="775" y="208" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvgxuEnCEsWHvV5gqymJ-49" value="valid insurance?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="ZvgxuEnCEsWHvV5gqymJ-28">
+          <mxGeometry x="49.989999999999995" y="58" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZvgxuEnCEsWHvV5gqymJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="M0qI7qhmrWYA1nhGatHo-75" source="M0qI7qhmrWYA1nhGatHo-73" target="M0qI7qhmrWYA1nhGatHo-66">
           <mxGeometry relative="1" as="geometry" />
